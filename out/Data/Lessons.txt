@@ -1,0 +1,4 @@
+GeneralMath1 Mathematics 1401/04/05 Mondays11:30 400 4 1 Karshenasi requiredFor GeneralMathematic2 professors Khanedani TAs Mahmodi Bagheri
+GeneralMath2 Mathematics 1401/04/15 Sundays13:30 500 4 2 Arshad GeneralMathematics1 requiredFor professors Gholamz Moghadasi TAs Babaee 
+AdvancedProgramming Mathematics 1401/05/28 Fridays8:45 100 4 3 Doktora BasicProgramming requiredFor professors Tefagh TAs ghasemi 
+GeneralPhysics1 Physics 1401/04/19 Mondays20:30 200 3 4 KarshenasirequiredFor GeneralPhysics2 professors BahmanAbadi TAs Esmaeli
